@@ -16,5 +16,9 @@ This is a GUI-based image encryption and decryption tool that scrambles image pi
 ## ▶️ How to Run
 
 1. Install the required library:
+2. Run the script
 ```bash
 pip install pillow
+python image_encryptor.py
+ 
+
